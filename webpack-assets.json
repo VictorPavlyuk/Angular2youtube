@@ -1,0 +1,12 @@
+{
+  "main": {
+    "js": "main.d04eb26ba325d2145ef0.bundle.js",
+    "css": "main.429d98a72b4cc5762a519d6b0ac6d481.css"
+  },
+  "thirdparty": {
+    "js": "thirdparty.c457ec9d14808cfb9795.bundle.js"
+  },
+  "polyfills": {
+    "js": "polyfills.8ac47b1b34705312c109.bundle.js"
+  }
+}
